@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Thipe</h1>
-<h3 align="center">I'm Rajat Thipe — a Computer Science graduate passionate about machine learning, statistical modeling, and data-driven solutions. I build intelligent systems that extract insights from data. From predicting trends to optimizing decisions. Always learning, always building, turning data into real-world impact.</h3>
+<h3 align="center">I'm Rajat Thipe — a Computer Science graduate passionate about machine learning, statistical modeling, and data-driven solutions. I build intelligent systems that extract insights from data — from predicting trends to optimizing decisions. Always learning, always building — turning algorithms into real-world impact.</h3>
 
 - 🌱 I’m currently learning **Big Data Technologies**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajat-thipe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajat-thipe/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajatthipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajatthipe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-thipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-thipe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajatthipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajatthipe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
