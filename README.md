@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Thipe</h1>
-<h3 align="center">I'm Rajat Thipe — a Computer Science graduate passionate about machine learning, statistical modeling, and data-driven solutions. I build intelligent systems that extract insights from data, from predicting trends to optimizing decisions. Always learning, always building, turning algorithms into real-world impact.</h3>
+<h3 align="center">I'm Rajat Thipe — a Computer Science graduate passionate about machine learning, statistical modeling, and data-driven solutions. I build intelligent systems that extract insights from data. From predicting trends to optimizing decisions. Always learning, always building, turning data into real-world impact.</h3>
 
 - 🌱 I’m currently learning **Big Data Technologies**
 
